@@ -1,6 +1,7 @@
 {
-  "title": "天国",
-  "description": "自分だけの天国に関するとりとめのないメモ",
+  "title": "carte sandbox",
+  "description": "sandbox for carte",
   "public_folder": "public",
-  "script_path": "public/app.js"
+  "script_path": "public/app.js",
+  "link_color": "#2C21A6"
 }
