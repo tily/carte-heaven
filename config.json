@@ -3,5 +3,5 @@
   "description": "天国についてのとりとめのないメモ",
   "public_folder": "public",
   "script_path": "public/app.js",
-  "link_color": "yellow"
+  "link_color": "#663300"
 }
