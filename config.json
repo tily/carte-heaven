@@ -6,5 +6,5 @@
   "link_color": "#663300",
   "api_path": "",
   "menu_items": ["latest", "atoz", "random"],
-  "default_config: {"sort": "updated_at", "order": "desc"}
+  "default_config": {"sort": "updated_at", "order": "desc"}
 }
