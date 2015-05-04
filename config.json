@@ -4,5 +4,7 @@
   "public_folder": "public",
   "script_path": "public/app.js",
   "link_color": "#663300",
-  "api_path": ""
+  "api_path": "",
+  "menu_items": ["latest", "atoz", "random"],
+  "default_config: {"sort": "updated_at", "order": "desc"}
 }
