@@ -3,7 +3,7 @@
   "description": "天国についてのとりとめのないメモ",
   "public_folder": "public",
   "script_path": "public/app.js",
-  "link_color": "#663300",
+  "link_color": "#AB8024",
   "api_path": "",
   "menu_items": ["latest", "atoz", "random"],
   "default_query": {"sort": "updated_at", "order": "desc"}
