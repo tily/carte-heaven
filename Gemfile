@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-gem 'thin'
 gem 'carte-server'
-gem 'rake' # temp
+gem 'thin'
+gem 'rake'
 group :development do
   gem 'shotgun'
 end
