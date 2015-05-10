@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "carte-client": "0.0.23",
+    "carte-client": "0.0.24",
     "coffee-script": "^1.9.2",
     "gulp": "^3.8.11"
   }
