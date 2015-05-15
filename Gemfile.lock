@@ -31,6 +31,8 @@ GEM
     eventmachine (1.0.7)
     haml (4.0.6)
       tilt
+    heroku-deflater (0.5.3)
+      rack (>= 1.4.5)
     i18n (0.7.0)
     json (1.8.2)
     method_source (0.8.2)
@@ -97,6 +99,7 @@ PLATFORMS
 
 DEPENDENCIES
   carte-server
+  heroku-deflater
   rake
   shotgun
   thin
