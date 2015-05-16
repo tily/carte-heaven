@@ -14,7 +14,7 @@ map('/') do
   use Rack::Static,
     urls: [""],
     root: $config['root_dir'],
-    index: $config['html_path']
+    index: $config['html_path'],
     header_rules: [
       ['manifest' => {'Content-Type' => 'text/cache-manifest'}]
     ] 
