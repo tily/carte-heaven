@@ -13,7 +13,7 @@ GEM
     backports (3.6.4)
     bson (2.3.0)
     builder (3.2.2)
-    carte-server (1.0.9)
+    carte-server (1.0.10)
       activesupport
       haml
       mongoid
@@ -36,7 +36,7 @@ GEM
     i18n (0.7.0)
     json (1.8.2)
     method_source (0.8.2)
-    minitest (5.6.1)
+    minitest (5.7.0)
     mongoid (4.0.2)
       activemodel (~> 4.0)
       moped (~> 2.0.0)
@@ -61,6 +61,8 @@ GEM
       method_source (~> 0.8.1)
       slop (~> 3.4)
     rack (1.6.1)
+    rack-gzip-file (0.0.1)
+      rack (>= 1.5.0)
     rack-protection (1.5.3)
       rack
     rack-test (0.6.3)
@@ -100,6 +102,7 @@ PLATFORMS
 DEPENDENCIES
   carte-server
   heroku-deflater
+  rack-gzip-file
   rake
   shotgun
   thin
