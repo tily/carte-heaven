@@ -1,1 +1,1 @@
-web: gulp build && bundle exec rackup -p $PORT
+web: gulp build && bundle exec thin start -p $PORT
